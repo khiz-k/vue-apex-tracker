@@ -2,6 +2,8 @@
 
 > Full stack Vue/Express app using the Tracker Network API to track player stats
 
+![example](/apex.gif)
+
 ## Quick Start
 
 Register and get your API key from
