@@ -2,6 +2,8 @@
 
 > Full stack Vue/Express app using the Tracker Network API to track player stats
 
+https://khiz-apex-tracker.herokuapp.com/
+
 ![example](/apex.gif)
 
 ## Quick Start
