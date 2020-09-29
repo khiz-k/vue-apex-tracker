@@ -1,6 +1,6 @@
 # Apex Legends Stat Tracker
 
-> Full stack Vue/Express app using the Tracker Network API to track player stats
+Full stack Vue/Express app using the Tracker Network API to track player stats
 
 https://khiz-apex-tracker.herokuapp.com/
 
