@@ -5,9 +5,9 @@
   <a href="https://github.com/khiz-k/pseudo-clones/commits/master"><img src="https://img.shields.io/github/last-commit/khiz-k/pseudo-clones.svg?style=plasticr"/></a>
 </h4>
 
-<p align="center">
-  <h2><a href="https://khiz-apex-tracker.herokuapp.com/" target="_blank">Live Site</a></h2>
-  </p>
+
+  <h2 align="center"><a href="https://khiz-apex-tracker.herokuapp.com/" target="_blank">Live Site</a></h2>
+
   <br>
   <p align="center">
   <img src="/apex.gif" alt="Example"/>
