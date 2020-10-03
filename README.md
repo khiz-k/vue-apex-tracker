@@ -1,10 +1,17 @@
-# Apex Legends Stat Tracker
+<h1 align="center">Apex Legends Stat Tracker</h1>
+<h4 align="center">Full stack Vue/Express app using the Tracker Network API to track player stats!</h4>
 
-Full stack Vue/Express app using the Tracker Network API to track player stats
+<h4 align="center">
+  <a href="https://github.com/khiz-k/pseudo-clones/commits/master"><img src="https://img.shields.io/github/last-commit/khiz-k/pseudo-clones.svg?style=plasticr"/></a>
+</h4>
 
-https://khiz-apex-tracker.herokuapp.com/
+<p align="center">
+  <h2><a href="https://khiz-apex-tracker.herokuapp.com/" target="_blank">Live Site</a></h2>
+  <br>
+  <img src="/apex.gif" alt="Example"/>
+</p>
 
-![example](/apex.gif)
+#
 
 ## Quick Start
 
@@ -29,4 +36,3 @@ cd client
 npm run build
 # Gets put in /public
 ```
-
