@@ -13,8 +13,7 @@
   <img src="/apex.gif" alt="Example"/>
   </p>
 
-
-#
+<br>
 
 ## Quick Start
 
