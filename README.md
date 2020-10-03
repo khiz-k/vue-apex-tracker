@@ -7,9 +7,12 @@
 
 <p align="center">
   <h2><a href="https://khiz-apex-tracker.herokuapp.com/" target="_blank">Live Site</a></h2>
+  </p>
   <br>
+  <p align="center">
   <img src="/apex.gif" alt="Example"/>
-</p>
+  </p>
+
 
 #
 
