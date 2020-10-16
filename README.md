@@ -22,7 +22,7 @@ https://tracker.gg/developers
 
 Add the API Key to _config.env_
 
-```bash
+```
 # Install Express dependencies
 npm install
 
