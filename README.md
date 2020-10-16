@@ -23,18 +23,18 @@ https://tracker.gg/developers
 Add the API Key to _config.env_
 
 ```
-# Install Express dependencies
+Install Express dependencies:
 npm install
 
-# Install Vue dependencies
+Install Vue dependencies:
 cd client
 npm install
 
-# Serve
+Serve:
 npm run dev
 
-# Build for production
+Build for production:
 cd client
 npm run build
-# Gets put in /public
+  - Gets put in /public
 ```
